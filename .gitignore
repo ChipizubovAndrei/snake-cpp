@@ -1,4 +1,8 @@
 .github/**
 
+cmake/conan_provider.cmake
+
+CMakeUserPresets.json
+
 build/
 bin/
