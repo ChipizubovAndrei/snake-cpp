@@ -4,5 +4,7 @@ cmake/conan_provider.cmake
 
 CMakeUserPresets.json
 
+.vscode
+
 build/
 bin/
